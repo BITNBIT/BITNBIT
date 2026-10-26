@@ -20,7 +20,7 @@ fondo grigio rimosso, **carta d'identità e patente a grandezza reale** fronte/r
 
 ### ⚽ [Pronostic-python (TITAN v6)](https://github.com/BITNBIT/Pronostic-python) — pronostici statistici Serie A e Serie B
 Sistema automatico che ogni giorno aggiorna dati, rating Elo e modelli (LightGBM, Poisson, Dixon-Coles)
-e pubblica i pronostici con la verifica di quelli passati. Progetto educativo, vietato ai minori di 18 anni.
+e pubblica la [dashboard](https://bitnbit.github.io/Pronostic-python/) con la verifica dei pronostici passati. Progetto educativo, vietato ai minori di 18 anni.
 `Python` `machine learning` `GitHub Actions`
 
 ---
