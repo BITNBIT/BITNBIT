@@ -7,6 +7,14 @@ niente cloud, niente abbonamenti, spesso niente installazione (**portatili**: vi
 
 ## Progetti
 
+<a href="https://github.com/BITNBIT/qwen-phonehome-shield"><img src="img/qwen-phonehome-shield.png" width="520" alt="qwen-phonehome-shield"></a>
+
+### 🛡️ [Qwen Phone-Home Shield](https://github.com/BITNBIT/qwen-phonehome-shield) — la tua AI locale non esce senza il tuo sì · *portatile*
+Quando un'AI locale (Qwen, Llama, Ornith… con llama.cpp, Ollama, LM Studio o un agente) prova a collegarsi a internet,
+una finestra ti dice **quale modello** e **verso quale sito**: **Accetta solo ora**, **Accetta sempre**, **No**, **No, mai**.
+Blocca gli indirizzi dell'incidente Qwen3.8 (upload verso Alibaba Cloud a Pechino). Si attiva e disattiva con un doppio clic, **nessun dato inviato**.
+`PowerShell` `Windows Firewall` `privacy` · [Scarica](https://github.com/BITNBIT/qwen-phonehome-shield/releases/latest)
+
 <a href="https://github.com/BITNBIT/correttore-it"><img src="img/correttore-it.png" width="520" alt="correttore-it"></a>
 
 ### ✍️ [Correttore IT](https://github.com/BITNBIT/correttore-it) — correttore di italiano con AI locale · *portatile*
@@ -31,7 +39,7 @@ e pubblica la [dashboard](https://bitnbit.github.io/Pronostic-python/) con la ve
 
 ---
 
-*Free, open-source Windows tools in Italian that run locally: a private AI proofreader (Correttore IT),
+*Free, open-source Windows tools in Italian that run locally: a guard that stops local AI from going online without your OK (Qwen Phone-Home Shield), a private AI proofreader (Correttore IT),
 a toner-saving document cleaner (AI Toner Saver) and a Serie A / Serie B statistics model (TITAN).*
 
 Se un programma ti è utile, lascia una ⭐ al progetto: aiuta altre persone a trovarlo.
