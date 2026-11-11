@@ -27,8 +27,15 @@ L'AI (llama.cpp + Qwen3.5) gira sul PC: **il testo non esce mai dal computer**.
 
 ### 🖨️ [AI Toner Saver](https://github.com/BITNBIT/ai-toner-saver) — stampa documenti consumando meno toner · *portatile*
 Pulisce PDF e foto del telefono per la stampa in bianco e nero: **scontorno automatico** del foglio,
-fondo grigio rimosso, **carta d'identità e patente a grandezza reale** fronte/retro su un foglio, cartella automatica.
+fondo grigio rimosso, **carta d'identità e patente a grandezza reale** fronte/retro su un foglio, cartella automatica, **composizione libera del foglio**, formati scontrino/tessera/A6/A5.
 `Python` `OpenCV` `PySide6` · [Scarica](https://github.com/BITNBIT/ai-toner-saver/releases/latest)
+
+<a href="https://github.com/BITNBIT/fix-hp-usb-driver-windows-update"><img src="img/fix-hp-usb-driver-windows-update.svg" width="520" alt="fix-hp-usb-driver-windows-update"></a>
+
+### 🔧 [Fix HP USB driver update](https://github.com/BITNBIT/fix-hp-usb-driver-windows-update) — l'aggiornamento HP che ricompare sempre in Windows Update
+Nasconde in 1 clic `Hewlett-Packard - USB - 6/1/2018 - 46.2.2631.18152` (HP LaserJet M14-M17) e qualsiasi altro
+driver che Windows Update ripropone all'infinito. Reversibile, nessun servizio disattivato.
+`PowerShell` `Windows Update` · [Scarica](https://github.com/BITNBIT/fix-hp-usb-driver-windows-update/archive/refs/heads/main.zip)
 
 <a href="https://github.com/BITNBIT/Pronostic-python"><img src="img/Pronostic-python.png" width="520" alt="Pronostic-python"></a>
 
